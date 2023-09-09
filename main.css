@@ -73,15 +73,15 @@ body {
     }
 
     #name h1 {
-        font-size: 20px;
+        font-size: 30px;
     }
 
     #desc p {
-        font-size: 14px;
+        font-size: 20px;
     }
 
     #link a {
         padding: 8px;
-        font-size: 14px;
+        font-size: 18px;
     }
 }
